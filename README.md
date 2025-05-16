@@ -11,3 +11,6 @@ Each computer graphics project is named after a mythical creature whose symbolic
 
 ## 4. Biomedical Informatics - *Greek gods representing Medical & Biological Functions*  
 Each project is named after a Greek god or goddess whose domain or symbolism closely relates to the medical topic or biological function studied in the project.
+
+## 5. Hardware Drivers & Interfaces - *Birds*
+Each project is named after a bird whose traits reflect the behavior, scope, or performance of the driver it represents.
