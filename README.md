@@ -1,4 +1,4 @@
-# Project Codename System: Table of Contents
+# Table of Contents
 
 ## 1. Lithography Projects - *Stars of the Galaxy*  
 Each project is named after a star chosen because its key features match the defining characteristics of the lithography technique.
